@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Xaml.Templates</id>
+    <version>1.0.0.1</version>
+    <title>XAML templates</title>
+    <authors>petegoo</authors>
+    <description>Contains live templates and surround templates useful in XAML development.</description>
+    <copyright>Copyright &#x00A9; 2013 Peter Goodman</copyright>
+    <tags>Xaml, live template, surround</tags>
+    <projectUrl>https://github.com/PeteGoo/Resharper.Xaml.Templates</projectUrl>
+    <licenseUrl>https://raw.github.com/PeteGoo/Resharper.Xaml.Templates/master/LICENSE.md</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <dependencies>
+      <dependency id="ReSharper" version="8.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="resharper.xaml.*.templates.DotSettings" target="ReSharper\vAny\settings" />
+    <file src="resharper.xaml.*.templates.DotSettings" target="ReSharper\vAny\settings" />
+  </files>
+</package>

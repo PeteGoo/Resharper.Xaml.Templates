@@ -1,0 +1,161 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=5BB6FC5AF2B9DF40888F817D2D5BE329/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=5BB6FC5AF2B9DF40888F817D2D5BE329/Shortcut/@EntryValue">grid22</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=5BB6FC5AF2B9DF40888F817D2D5BE329/Description/@EntryValue">Grid with 2 columns &amp; 2 rows</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=5BB6FC5AF2B9DF40888F817D2D5BE329/Text/@EntryValue">&lt;Grid&gt;&#xD;
+	&lt;Grid.ColumnDefinitions&gt;	&#xD;
+		&lt;ColumnDefinition /&gt;&#xD;
+		&lt;ColumnDefinition /&gt;&#xD;
+	&lt;/Grid.ColumnDefinitions&gt;&#xD;
+	&lt;Grid.RowDefinitions&gt;&#xD;
+		&lt;RowDefinition /&gt;&#xD;
+		&lt;RowDefinition /&gt;&#xD;
+	&lt;/Grid.RowDefinitions&gt;&#xD;
+	&#xD;
+	$SELECTION$&#xD;
+&#xD;
+&lt;/Grid&gt;</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=5BB6FC5AF2B9DF40888F817D2D5BE329/Reformat/@EntryValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=5BB6FC5AF2B9DF40888F817D2D5BE329/ShortenQualifiedReferences/@EntryValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=5BB6FC5AF2B9DF40888F817D2D5BE329/Applicability/=Live/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=5BB6FC5AF2B9DF40888F817D2D5BE329/Scope/=AD41E18405A7FF4682F040638EE2663C/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=5BB6FC5AF2B9DF40888F817D2D5BE329/Scope/=AD41E18405A7FF4682F040638EE2663C/Type/@EntryValue">InXmlFile</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=387CDE7147B961419CB2F8683DE4EAD1/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=387CDE7147B961419CB2F8683DE4EAD1/Shortcut/@EntryValue">bind</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=387CDE7147B961419CB2F8683DE4EAD1/Description/@EntryValue">Creates a binding</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=387CDE7147B961419CB2F8683DE4EAD1/Text/@EntryValue">{Binding $END$}</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=387CDE7147B961419CB2F8683DE4EAD1/Reformat/@EntryValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=387CDE7147B961419CB2F8683DE4EAD1/ShortenQualifiedReferences/@EntryValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=387CDE7147B961419CB2F8683DE4EAD1/Applicability/=Live/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=387CDE7147B961419CB2F8683DE4EAD1/Scope/=AD41E18405A7FF4682F040638EE2663C/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=387CDE7147B961419CB2F8683DE4EAD1/Scope/=AD41E18405A7FF4682F040638EE2663C/Type/@EntryValue">InXmlFile</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=EC6F360989AC49429BC4AE1A03DBF09E/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=EC6F360989AC49429BC4AE1A03DBF09E/Shortcut/@EntryValue">bindc</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=EC6F360989AC49429BC4AE1A03DBF09E/Description/@EntryValue">Create a XAML binding with a converter in a static resource</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=EC6F360989AC49429BC4AE1A03DBF09E/Text/@EntryValue">{Binding $PATH$, Converter={StaticResource $END$}</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=EC6F360989AC49429BC4AE1A03DBF09E/Reformat/@EntryValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=EC6F360989AC49429BC4AE1A03DBF09E/ShortenQualifiedReferences/@EntryValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=EC6F360989AC49429BC4AE1A03DBF09E/Applicability/=Live/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=EC6F360989AC49429BC4AE1A03DBF09E/Scope/=AD41E18405A7FF4682F040638EE2663C/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=EC6F360989AC49429BC4AE1A03DBF09E/Scope/=AD41E18405A7FF4682F040638EE2663C/Type/@EntryValue">InXmlFile</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=EC6F360989AC49429BC4AE1A03DBF09E/Field/=PATH/@KeyIndexDefined">True</s:Boolean>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=EC6F360989AC49429BC4AE1A03DBF09E/Field/=PATH/Order/@EntryValue">0</s:Int64>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=205E81A7DB2B224CAF98EB7A5C056034/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=205E81A7DB2B224CAF98EB7A5C056034/Shortcut/@EntryValue">grid23</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=205E81A7DB2B224CAF98EB7A5C056034/Description/@EntryValue">Grid with 2 columns &amp; 3 rows</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=205E81A7DB2B224CAF98EB7A5C056034/Text/@EntryValue">&lt;Grid&gt;&#xD;
+	&lt;Grid.ColumnDefinitions&gt;	&#xD;
+		&lt;ColumnDefinition /&gt;&#xD;
+		&lt;ColumnDefinition /&gt;&#xD;
+	&lt;/Grid.ColumnDefinitions&gt;&#xD;
+	&lt;Grid.RowDefinitions&gt;&#xD;
+		&lt;RowDefinition /&gt;&#xD;
+		&lt;RowDefinition /&gt;&#xD;
+		&lt;RowDefinition /&gt;&#xD;
+	&lt;/Grid.RowDefinitions&gt;&#xD;
+	&#xD;
+	$SELECTION$&#xD;
+&#xD;
+&lt;/Grid&gt;</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=205E81A7DB2B224CAF98EB7A5C056034/Reformat/@EntryValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=205E81A7DB2B224CAF98EB7A5C056034/ShortenQualifiedReferences/@EntryValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=205E81A7DB2B224CAF98EB7A5C056034/Applicability/=Live/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=205E81A7DB2B224CAF98EB7A5C056034/Scope/=AD41E18405A7FF4682F040638EE2663C/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=205E81A7DB2B224CAF98EB7A5C056034/Scope/=AD41E18405A7FF4682F040638EE2663C/Type/@EntryValue">InXmlFile</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=6B53DD354CA52A479BFA57595E619F03/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=6B53DD354CA52A479BFA57595E619F03/Shortcut/@EntryValue">grid24</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=6B53DD354CA52A479BFA57595E619F03/Description/@EntryValue">Grid with 2 columns &amp; 4 rows</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=6B53DD354CA52A479BFA57595E619F03/Text/@EntryValue">&lt;Grid&gt;&#xD;
+	&lt;Grid.ColumnDefinitions&gt;	&#xD;
+		&lt;ColumnDefinition /&gt;&#xD;
+		&lt;ColumnDefinition /&gt;&#xD;
+	&lt;/Grid.ColumnDefinitions&gt;&#xD;
+	&lt;Grid.RowDefinitions&gt;&#xD;
+		&lt;RowDefinition /&gt;&#xD;
+		&lt;RowDefinition /&gt;&#xD;
+		&lt;RowDefinition /&gt;&#xD;
+		&lt;RowDefinition /&gt;&#xD;
+	&lt;/Grid.RowDefinitions&gt;&#xD;
+	&#xD;
+	$SELECTION$&#xD;
+&#xD;
+&lt;/Grid&gt;</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=6B53DD354CA52A479BFA57595E619F03/Reformat/@EntryValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=6B53DD354CA52A479BFA57595E619F03/ShortenQualifiedReferences/@EntryValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=6B53DD354CA52A479BFA57595E619F03/Applicability/=Live/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=6B53DD354CA52A479BFA57595E619F03/Scope/=AD41E18405A7FF4682F040638EE2663C/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=6B53DD354CA52A479BFA57595E619F03/Scope/=AD41E18405A7FF4682F040638EE2663C/Type/@EntryValue">InXmlFile</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=C9AD4D167980CE4E85505D1313359B05/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=C9AD4D167980CE4E85505D1313359B05/Shortcut/@EntryValue">grid25</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=C9AD4D167980CE4E85505D1313359B05/Description/@EntryValue">Grid with 2 columns &amp; 5 rows</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=C9AD4D167980CE4E85505D1313359B05/Text/@EntryValue">&lt;Grid&gt;&#xD;
+	&lt;Grid.ColumnDefinitions&gt;	&#xD;
+		&lt;ColumnDefinition /&gt;&#xD;
+		&lt;ColumnDefinition /&gt;&#xD;
+	&lt;/Grid.ColumnDefinitions&gt;&#xD;
+	&lt;Grid.RowDefinitions&gt;&#xD;
+		&lt;RowDefinition /&gt;&#xD;
+		&lt;RowDefinition /&gt;&#xD;
+		&lt;RowDefinition /&gt;&#xD;
+		&lt;RowDefinition /&gt;&#xD;
+		&lt;RowDefinition /&gt;&#xD;
+	&lt;/Grid.RowDefinitions&gt;&#xD;
+	&#xD;
+	$SELECTION$&#xD;
+&#xD;
+&lt;/Grid&gt;</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=C9AD4D167980CE4E85505D1313359B05/Reformat/@EntryValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=C9AD4D167980CE4E85505D1313359B05/ShortenQualifiedReferences/@EntryValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=C9AD4D167980CE4E85505D1313359B05/Applicability/=Live/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=C9AD4D167980CE4E85505D1313359B05/Scope/=AD41E18405A7FF4682F040638EE2663C/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=C9AD4D167980CE4E85505D1313359B05/Scope/=AD41E18405A7FF4682F040638EE2663C/Type/@EntryValue">InXmlFile</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=9E2B538DA566004DB77BEBCDBDEB77E4/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=9E2B538DA566004DB77BEBCDBDEB77E4/Shortcut/@EntryValue">setter</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=9E2B538DA566004DB77BEBCDBDEB77E4/Description/@EntryValue">Creates a XAML Style setter declaration</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=9E2B538DA566004DB77BEBCDBDEB77E4/Text/@EntryValue">&lt;Setter Property="$Property$" Value="$Value$"/&gt;</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=9E2B538DA566004DB77BEBCDBDEB77E4/Reformat/@EntryValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=9E2B538DA566004DB77BEBCDBDEB77E4/ShortenQualifiedReferences/@EntryValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=9E2B538DA566004DB77BEBCDBDEB77E4/Applicability/=Live/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=9E2B538DA566004DB77BEBCDBDEB77E4/Scope/=AD41E18405A7FF4682F040638EE2663C/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=9E2B538DA566004DB77BEBCDBDEB77E4/Scope/=AD41E18405A7FF4682F040638EE2663C/Type/@EntryValue">InXmlFile</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=9E2B538DA566004DB77BEBCDBDEB77E4/Field/=Property/@KeyIndexDefined">True</s:Boolean>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=9E2B538DA566004DB77BEBCDBDEB77E4/Field/=Property/Order/@EntryValue">0</s:Int64>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=9E2B538DA566004DB77BEBCDBDEB77E4/Field/=Value/@KeyIndexDefined">True</s:Boolean>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=9E2B538DA566004DB77BEBCDBDEB77E4/Field/=Value/Order/@EntryValue">1</s:Int64>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=A0B17D2AFFE7D840A87FA09AB16DAC4C/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=A0B17D2AFFE7D840A87FA09AB16DAC4C/Shortcut/@EntryValue">setterstatic</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=A0B17D2AFFE7D840A87FA09AB16DAC4C/Description/@EntryValue">Creates a XAML Style setter declaration with a value in a static resource</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=A0B17D2AFFE7D840A87FA09AB16DAC4C/Text/@EntryValue">&lt;Setter Property="$Property$" Value="{StaticResource $Value$}"/&gt;</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=A0B17D2AFFE7D840A87FA09AB16DAC4C/Reformat/@EntryValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=A0B17D2AFFE7D840A87FA09AB16DAC4C/ShortenQualifiedReferences/@EntryValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=A0B17D2AFFE7D840A87FA09AB16DAC4C/Applicability/=Live/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=A0B17D2AFFE7D840A87FA09AB16DAC4C/Scope/=AD41E18405A7FF4682F040638EE2663C/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=A0B17D2AFFE7D840A87FA09AB16DAC4C/Scope/=AD41E18405A7FF4682F040638EE2663C/Type/@EntryValue">InXmlFile</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=A0B17D2AFFE7D840A87FA09AB16DAC4C/Field/=Property/@KeyIndexDefined">True</s:Boolean>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=A0B17D2AFFE7D840A87FA09AB16DAC4C/Field/=Property/Order/@EntryValue">0</s:Int64>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=A0B17D2AFFE7D840A87FA09AB16DAC4C/Field/=Value/@KeyIndexDefined">True</s:Boolean>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=A0B17D2AFFE7D840A87FA09AB16DAC4C/Field/=Value/Order/@EntryValue">1</s:Int64>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=C8B4BA6CBFF45448873209BF11FAB9D6/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=C8B4BA6CBFF45448873209BF11FAB9D6/Shortcut/@EntryValue">static</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=C8B4BA6CBFF45448873209BF11FAB9D6/Description/@EntryValue">Creates a static resource binding</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=C8B4BA6CBFF45448873209BF11FAB9D6/Text/@EntryValue">{StaticResource $END$}</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=C8B4BA6CBFF45448873209BF11FAB9D6/Reformat/@EntryValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=C8B4BA6CBFF45448873209BF11FAB9D6/ShortenQualifiedReferences/@EntryValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=C8B4BA6CBFF45448873209BF11FAB9D6/Applicability/=Live/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=C8B4BA6CBFF45448873209BF11FAB9D6/Scope/=AD41E18405A7FF4682F040638EE2663C/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=C8B4BA6CBFF45448873209BF11FAB9D6/Scope/=AD41E18405A7FF4682F040638EE2663C/Type/@EntryValue">InXmlFile</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=A574D3F49C4A8845AD9F1165076B9824/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=A574D3F49C4A8845AD9F1165076B9824/Shortcut/@EntryValue">style</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=A574D3F49C4A8845AD9F1165076B9824/Description/@EntryValue">Creates a Xaml Style</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=A574D3F49C4A8845AD9F1165076B9824/Text/@EntryValue">&lt;Style x:Key="$Key$" TargetType="$TargetType$"&gt;&#xD;
+	$END$&#xD;
+&lt;/Style&gt;</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=A574D3F49C4A8845AD9F1165076B9824/Reformat/@EntryValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=A574D3F49C4A8845AD9F1165076B9824/ShortenQualifiedReferences/@EntryValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=A574D3F49C4A8845AD9F1165076B9824/Applicability/=Live/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=A574D3F49C4A8845AD9F1165076B9824/Scope/=AD41E18405A7FF4682F040638EE2663C/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=A574D3F49C4A8845AD9F1165076B9824/Scope/=AD41E18405A7FF4682F040638EE2663C/Type/@EntryValue">InXmlFile</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=A574D3F49C4A8845AD9F1165076B9824/Field/=Key/@KeyIndexDefined">True</s:Boolean>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=A574D3F49C4A8845AD9F1165076B9824/Field/=Key/Order/@EntryValue">0</s:Int64>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=A574D3F49C4A8845AD9F1165076B9824/Field/=TargetType/@KeyIndexDefined">True</s:Boolean>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=A574D3F49C4A8845AD9F1165076B9824/Field/=TargetType/Order/@EntryValue">1</s:Int64></wpf:ResourceDictionary>
